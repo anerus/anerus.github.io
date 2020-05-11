@@ -3,9 +3,9 @@
 ### **医疗行业分享**
 
 
-
-- [特异性双抗行业分享视频](http://data.willy.link/index.php/s/oMec2gFqDgHw3P5)
-- [特异性双抗行业分享PPT]()
+1、 特异性双抗行业研究 邱肖迪博士
+-[视频](http://data.willy.link/index.php/s/oMec2gFqDgHw3P5)
+-[PPT]()
 
 1. Numbered
 2. List
